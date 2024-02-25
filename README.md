@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on refining my Full Stack Developer skills and exploring new technologies to enhance my projects.
 
-- 🌱 I’m currently learning advanced data structures and algorithms to optimize code efficiency.
+- 🌱 I’m currently working on an advanced data structures and algorithms to optimize code efficiency.
 
 - 👯 I’m looking to collaborate on open-source projects that challenge and inspire innovation in software development.
 
