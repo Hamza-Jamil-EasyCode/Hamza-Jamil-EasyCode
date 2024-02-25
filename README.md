@@ -28,7 +28,7 @@ Personal Website: https://hamzajamil-easycode.netlify.app/
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hamza-jamil-a57a05202/)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/hhamza.jjamil?mibextid=ZbWKwL)
-[<img align="left" alt="upwork" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg?&style=for-the-badge&logo=upwork&logoColor=white" />](https://www.facebook.com/hhamza.jjamil?mibextid=ZbWKwL)
+[<img align="left" alt="upwork" src="https://assets-global.website-files.com/603fea6471d9d8559d077603/6092b7514135708162a4be92_Favicon%20256.png?&style=for-the-badge&logo=upwork&logoColor=white" />](https://www.facebook.com/hhamza.jjamil?mibextid=ZbWKwL)
 
 <br>
 <br>
