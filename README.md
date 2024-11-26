@@ -10,8 +10,6 @@
 
 - 💬 Ask me about my experience in Prompt Engineering and how it influences my approach to software development.
 
-- 📫 How to reach me: ✉ hamzajamil.easycode@gmail.com | 📞 923335157948
-
 - 😄 Pronouns: "Actor".
 
 - ⚡ Fun fact: I enjoy exploring the intersection of art and technology in my free time, often creating digital artwork using coding languages.
