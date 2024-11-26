@@ -20,18 +20,6 @@ Personal Website: https://hamzajamil-easycode.netlify.app/
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Hamza-Jamil-EasyCode)
-
-## Connect with me
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hamza-jamil-a57a05202/)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/hhamza.jjamil?mibextid=ZbWKwL)
-[<img align="left" alt="upwork" src="https://img.shields.io/badge/upwork-%530077B5.svg?&style=for-the-badge&logo=upwork&logoColor=white" />](https://www.upwork.com/freelancers/~01405a2a2bc83e53ef)
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-ff4c2d.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/jamil8442/?igshid=ZDdkNTZiNTM%3D)
-
-<br>
-<br>
-
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
