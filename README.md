@@ -15,13 +15,14 @@
     <div align=left>
         <br>
         <br>
-        ## I'm a Full Stack Software Engineer
+        <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+## I'm a Full Stack Software Engineer
 
 - 👨‍💻 I’m currently working on machine learning and data mining projects using python.
 - 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
----
 
 ##### Languages I use
 
@@ -50,10 +51,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
-
         <br>
         <br>
-        
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Full Stack Software Engineering.</li>
             <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
