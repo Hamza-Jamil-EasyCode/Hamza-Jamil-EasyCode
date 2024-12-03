@@ -2,9 +2,11 @@
     <div align=center>
         <img src="https://avatars.githubusercontent.com/u/85431333?v=4" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
+<br><br>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hamza+Jamil+%F0%9F%91%8B;Computer+Science+Student;Frontend-End+Engineer;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
+    <br><br>
     <div align=center>
         <a href="https://www.linkedin.com/in/hamza-jamil-a57a05202/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
         <a href="https://www.upwork.com/freelancers/~01405a2a2bc83e53ef"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
