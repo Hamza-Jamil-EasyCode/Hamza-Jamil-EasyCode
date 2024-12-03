@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://github.com/account" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://avatars.githubusercontent.com/u/85431333?v=4" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hamza+Jamil+%F0%9F%91%8B;Computer+Science+Student;Frontend-End+Engineer;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
