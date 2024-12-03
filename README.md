@@ -6,8 +6,8 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Hamza+Jamil+%F0%9F%91%8B;Computer+Science+Student;Frontend-End+Engineer;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" alt="LinkedIn" /></a>
-        <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://www.upwork.com/freelancers/~01405a2a2bc83e53ef" alt="UpWork" /></a>
+        <a href="www.linkedin.com/in/hamza-jamil-a57a05202"><img src="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" alt="LinkedIn" /></a>
+        <a href="[https://www.upwork.com/freelancers/~01405a2a2bc83e53ef](https://www.upwork.com/freelancers/~01405a2a2bc83e53ef)"><img src="https://www.upwork.com/freelancers/~01405a2a2bc83e53ef" alt="UpWork" /></a>
     </div>
     <div align=left>
         <br>
@@ -49,6 +49,6 @@
 
 ------
 
-Credit: [Ahmed Fathy](https://github.com/AhmedFathyDev)
+Credit: [Hamza Jamil](https://github.com/Hamza-Jamil-Easycode)
 
-Last edited on: 31/01/2022
+Last edited on: 01/01/2024
