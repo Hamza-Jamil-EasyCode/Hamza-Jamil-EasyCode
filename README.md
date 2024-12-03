@@ -66,12 +66,6 @@
         <br>
     </div>
     <div align=center>
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Jamil-EasyCode&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br>
-        <br>
-    </div>
-    <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
@@ -82,6 +76,14 @@
     </div>
      <br>
         <br>
+
+         <div align=center>
+        <h1>Contribution Activity</h1>
+        <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Jamil-EasyCode&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <br>
+        <br>
+    </div>
+    
 </div>
 
 ------
@@ -89,3 +91,6 @@
 Credit: [Hamza Jamil](https://github.com/Hamza-Jamil-Easycode)
 
 Last edited on: 03/02/2024
+
+
+
