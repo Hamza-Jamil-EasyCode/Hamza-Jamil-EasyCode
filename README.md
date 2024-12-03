@@ -19,12 +19,21 @@
 
 ## I'm a Full Stack Software Engineer
 
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
-- 📚 Learning everything about Frontend and Backend technologies 😅
+- 📚 Learning everything about Frontend and Backend technologies
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+<ul>
+            <li>🌱 <b>I’m currently learning</b>: Computer Science and Full Stack Software Engineering.</li>
+            <li>🎯 <b>I’m currently focusing on</b>: Problem-Solving, ⭐️ star the projects if you like it 🤩.</li>
+            <li>📚 Learning everything about Frontend and Backend technologies.</li>
+            <li>💬 <b>Ask me about anything</b>  </li>
+            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Traveling(🌍), Food(🍱), and Photography(📷).</li>
+            <li>👨‍💻 <b>Hire me for Full Stack Development or Back-End jobs</b>: <a href="https://www.upwork.com/freelancers/~01405a2a2bc83e53ef?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
+            <li>👨‍💻 <b>Hire me for Frontend-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~01405a2a2bc83e53ef?s=1110580755057594368">Link to my UpWork Frontend-End Development Specialization</a>.</li>
+        </ul>
 
+<br><br><br>
 
-##### Languages I use
+### Languages I use
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -35,7 +44,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![NoSQL](https://img.shields.io/badge/-mongodb-000000?style=flat&logo=mongodb)
 
-##### Some of the technologies I have worked with
+<br><br><br>
+
+### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -53,16 +64,6 @@
 <br/>
         <br>
         <br>
-        <ul>
-            <li>🌱 <b>I’m currently learning</b>: Computer Science and Full Stack Software Engineering.</li>
-            <li>🎯 <b>I’m currently focusing on</b>: <a href="https://ahmedfathydev.github.io/Problem-Solving/">Problem-Solving</a>, ⭐️ star the projects if you like it 🤩.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job opportunity </li>
-            <li>💬 <b>Ask me about anything</b>  </li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars(🚗), Codeing(💻), Traveling(🌍), and Photography(📷).</li>
-            <li>👨‍💻 <b>Hire me for Full Stack Development or Back-End jobs</b>: <a href="https://www.upwork.com/freelancers/~01405a2a2bc83e53ef?s=1110580755107926016">Link to my UpWork Full Stack Development Specialization</a>.</li>
-            <li>👨‍💻 <b>Hire me for Frontend-End Development jobs</b>: <a href="https://www.upwork.com/freelancers/~01405a2a2bc83e53ef?s=1110580755057594368">Link to my UpWork Frontend-End Development Specialization</a>.</li>
-        </ul>
     </div>
     <div align=center>
         <h1>Contribution Activity</h1>
