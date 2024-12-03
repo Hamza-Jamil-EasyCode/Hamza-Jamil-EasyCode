@@ -17,7 +17,7 @@
         <p>
             <strong>
                 Computer Science Student, Back-End Engineer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I specialize in .NET Core and Microsoft SQL Server and I have experience working with Angular. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
+                <br><br>
                 I have experience working with React and am proficient in Next.js, TypeScript, Node.js, Redux, Firebase, MongoDB, MUI, SCSS, Tailwind CSS, Chart.js, and JavaScript. I excel in algorithms, data structures, database systems, object-oriented programming, design patterns, and problem-solving skills.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
