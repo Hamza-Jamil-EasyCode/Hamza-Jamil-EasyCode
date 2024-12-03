@@ -75,15 +75,7 @@
     <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake">
     </div>
      <br>
-        <br>
-
-         <div align=center>
-        <h1>Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Jamil-EasyCode&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
-        <br>
-        <br>
-    </div>
-    
+        <br>    
 </div>
 
 ------
