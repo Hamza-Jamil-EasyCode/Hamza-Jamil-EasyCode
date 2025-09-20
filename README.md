@@ -8,7 +8,7 @@
     </div>
     <br><br>
     <div align=center>
-        <a href="https://www.linkedin.com/in/hamza-jamil-a57a05202/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+<!--         <a href="https://www.linkedin.com/in/hamza-jamil-a57a05202/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a> -->
         <a href="https://www.upwork.com/freelancers/~01405a2a2bc83e53ef"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
         <a align="left"> <img src="https://komarev.com/ghpvc/?username=Hamza-Jamil-EasyCode&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </a>
     </div>
@@ -82,7 +82,7 @@
 
 Credit: [Hamza Jamil](https://github.com/Hamza-Jamil-Easycode)
 
-Last edited on: 03/02/2024
+Last edited on: 15/06/2025
 
 
 
